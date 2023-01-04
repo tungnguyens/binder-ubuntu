@@ -1,0 +1,14 @@
+*.o
+*.d
+*.out
+.generated
+.generated_2
+.vscode
+*.cmd
+driver
+libs
+servicemanager
+test_client
+test_server
+test
+new/client/build/debug/linker_objs
